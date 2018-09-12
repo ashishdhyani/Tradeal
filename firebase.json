@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/Tradeal",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
